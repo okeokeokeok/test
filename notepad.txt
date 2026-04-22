@@ -1,0 +1,14 @@
+program testnotepad;
+
+var a,b,c: integer;
+
+BEGIN
+a:=0;
+b:=0;
+c:=0;
+	readln(a);
+	readln(b);
+a+b=c;
+writeln(c);
+
+END.

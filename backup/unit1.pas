@@ -1,4 +1,4 @@
-unit 123;
+unit lazarus;
 
 {$mode ObjFPC}{$H+}
 

@@ -1,0 +1,9 @@
+program geany;
+var a, b, c : integer;
+BEGIN
+	readln(a);
+	readln(a);
+	a+b=c;
+	writeln(c);
+END.
+

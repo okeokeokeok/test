@@ -1,4 +1,4 @@
-program geany;
+program geanygeany;
 var a, b, c : integer;
 BEGIN
 	readln(a);

@@ -1,4 +1,4 @@
-unit Unit1;
+unit 123;
 
 {$mode ObjFPC}{$H+}
 
